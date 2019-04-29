@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.*;
 /**
- *
+ * Clase para el cliente de la comunicación con socket.
  * @author Ingeniero Ricardo Presilla ricardopresilla@gmail.com.
  * @version 1.0.
  */
